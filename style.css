@@ -1,0 +1,19 @@
+/* .navbar{
+    display: flex;
+    /* gap: 90px; */
+    /* align-items: center; */
+    /* background-color: #24292e; */
+  /* } */ 
+
+  .d-flex::placeholder{
+    font-size: 19px;
+    color: white;
+  }
+
+  .btn-secondary.focus, .btn-secondary:focus {
+    box-shadow: none;
+  }
+
+  /* .btn-secondary:not(:disabled):not(.disabled).active:focus, .btn-secondary:not(:disabled):not(.disabled):active:focus, .show>.btn-secondary.dropdown-toggle:focus {
+    box-shadow: none;
+  } */
